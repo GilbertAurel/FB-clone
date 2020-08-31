@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,UAAU,CAAA;EACN,OAAO,EAAE,IAAI;CAChB",
+    "sources": [
+        "StoryReel.scss"
+    ],
+    "names": [],
+    "file": "StoryReel.css"
+}
